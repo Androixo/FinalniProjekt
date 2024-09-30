@@ -1,2 +1,3 @@
-# FinalniProjekt
-polibte mi vsichni prdel
+# FinalniProjektje
+je to v pohode
+
